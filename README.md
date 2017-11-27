@@ -5,3 +5,4 @@ Features to add:
 - Encrytpion e(n) function
 - Decryption d(n) function
 - Perhaps get user string input and encode in byte32 for ASCII
+- Implements square and multiple method
